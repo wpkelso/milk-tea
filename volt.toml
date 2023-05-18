@@ -1,0 +1,7 @@
+name = "milk-tea"
+display-name = "Milk Tea"
+description = "-insert description-"
+version = "0.1.0"
+author = "wpkelso"
+repository = "https://github.com/wpkelso/milk-tea"
+themes = ["milk-tea.toml"]
