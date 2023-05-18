@@ -4,5 +4,5 @@ display-name = "Milk Tea"
 description = "WIP theme based around bubble milk tea in its many forms"
 version = "A1"
 author = "wpkelso"
-repository = "https://github.com/wpkelso/milk-tea-lapce-theme"
+repository = "wpkelso/milk-tea-lapce-theme"
 themes = ["milk-tea.toml"]
