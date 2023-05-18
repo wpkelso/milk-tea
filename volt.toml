@@ -1,7 +1,7 @@
 # volt.toml (Lapce plugin definition)
 name = "milk-tea"
 display-name = "Milk Tea"
-description = "WIP theme based around bubble milk tea in its many forms"
+description = "Theme based around milk tea in its many forms"
 icon = "assets/logo.png"
 version = "0.0.1"
 author = "wpkelso"
