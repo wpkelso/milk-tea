@@ -6,4 +6,4 @@ icon = "assets/logo.png"
 version = "0.0.1"
 author = "wpkelso"
 repository = "wpkelso/milk-tea-lapce-theme"
-themes = ["milk-tea.toml"]
+color-themes = ["milk-tea.toml"]
