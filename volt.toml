@@ -2,7 +2,7 @@
 name = "milk-tea"
 display-name = "Milk Tea"
 description = "WIP theme based around bubble milk tea in its many forms"
-version = "A1"
+version = "0.0.1"
 author = "wpkelso"
 repository = "wpkelso/milk-tea-lapce-theme"
 themes = ["milk-tea.toml"]
